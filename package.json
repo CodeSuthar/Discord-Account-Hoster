@@ -1,5 +1,28 @@
 {
+  "name": "discord-account-hoster",
+  "version": "1.0.0",
+  "description": "Hosts your discord account online forever! Education Purpose Only",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "discord.js-selfbot-v13": "^3.1.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeSuthar/Discord-Account-Hoster.git"
+  },
+  "keywords": [
+    "Hoster",
+    "Discord-Account",
+    "Discord-Account-Online-Forever"
+  ],
+  "author": "CodeSuthar",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/CodeSuthar/Discord-Account-Hoster/issues"
+  },
+  "homepage": "https://github.com/CodeSuthar/Discord-Account-Hoster#readme"
 }

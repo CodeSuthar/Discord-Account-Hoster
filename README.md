@@ -7,7 +7,7 @@ Hosts your discord account online forever! Education Purpose Only.
 3. Randomly changes the status of the account.
 
 ## Is it safe?
-Yes, it is safe to use. This account hoster is made using `discord.js-selfbot-v13` which is a selfbot package modified from base `discord.js` v13 package and is available online at this [github repositoy](https://github.com/aiko-chan-ai/discord.js-selfbot-v13)
+Yes, it is safe to use. This account hoster is made using `discord.js-selfbot-v13` which is a selfbot package modified from base `discord.js` v13 package which is widely used by develoopers and is available online at this [github repository](https://github.com/aiko-chan-ai/discord.js-selfbot-v13)
 
 > # But using selfbots is against discord's terms of service. so you can be banned too.
 

@@ -1,6 +1,31 @@
 # Discord-Account-Hoster
 Hosts your discord account online forever! Education Purpose Only.
 
+## Features
+1. Hosts your discord account online forever.
+2. Supports multiple accounts.
+3. Randomly changes the status of the account.
+
+## Is it safe?
+Yes, it is safe to use. This account hoster is made using `discord.js-selfbot-v13` which is a selfbot package modified from base `discord.js` v13 package and is available online at this [github repositoy](https://github.com/aiko-chan-ai/discord.js-selfbot-v13)
+
+> # But using selfbots is against discord's terms of service. so you can be banned too.
+
+## Requirements
+1. NodeJS version 16.6.0 or higher.
+2. Discord account tokens.
+3. Valid internet connection.
+
+## Not working?
+If you are facing any issues, you can create an issue in the repository or you can contact me on discord: `@CodeSuthar`
+
+> Reasons for not working:
+1. The npm package `discord.js-selfbot-v13` may have been patched by discord.
+2. You are using an outdated version of NodeJS.
+3. You have not filled the required fields in the `config.hoster.json` file.
+4. You have not installed the required packages.
+5. You have not started the account hoster.
+
 ## How to use?
 
 1. Install NodeJS from [here](https://nodejs.org/en/download/) with version 16.6.0 or higher.
